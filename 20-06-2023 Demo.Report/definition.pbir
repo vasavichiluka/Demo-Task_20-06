@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../20-06-2023 Demo.Dataset"
+    },
+    "byConnection": null
+  }
+}
